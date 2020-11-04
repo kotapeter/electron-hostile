@@ -1,6 +1,6 @@
 {
   "name": "electron-hostile",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Update easily etc hosts file with permission check",
   "main": "index.js",
   "author": "Peter Kota <kotapeter@gmail.com>",
