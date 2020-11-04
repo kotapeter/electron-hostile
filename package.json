@@ -1,0 +1,14 @@
+{
+  "name": "electron-hostile",
+  "version": "1.0.0",
+  "description": "Update easily etc hosts file with permission check",
+  "main": "index.js",
+  "author": "Peter Kota <kotapeter@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "net": "^1.0.2",
+    "split": "^1.0.1",
+    "sudo-prompt": "^9.2.1",
+    "through": "^2.3.8"
+  }
+}
