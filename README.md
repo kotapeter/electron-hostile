@@ -1,3 +1,5 @@
+[![kotapeter](https://circleci.com/gh/kotapeter/electron-hostile.svg?style=shield)](<LINK>)
+
 # electron-hostile
 
 This package is inspired by hostile. In an electron app usually we need to get a confirmation from the user.
