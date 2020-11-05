@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "release": "standard-version",
-    "test": "jest --watchAll"
+    "test": "jest"
   },
   "dependencies": {
     "net": "^1.0.2",
