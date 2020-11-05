@@ -1,4 +1,4 @@
-[![kotapeter](https://circleci.com/gh/kotapeter/electron-hostile.svg?style=shield)](<LINK>)
+[![kotapeter](https://circleci.com/gh/kotapeter/electron-hostile.svg?style=shield)](<https://app.circleci.com/pipelines/github/kotapeter/electron-hostile>)
 
 # electron-hostile
 
