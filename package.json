@@ -1,6 +1,6 @@
 {
   "name": "electron-hostile",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Update hosts file with permission check",
   "main": "lib/index.js",
   "author": "Peter Kota <kotapeter@gmail.com>",
