@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/kotapeter/electron-hostile/compare/v1.0.1...v1.0.2) (2020-11-11)
+
+
+### Bug Fixes
+
+* **win:** create, remove and read from hosts file ([b3a1d7c](https://github.com/kotapeter/electron-hostile/commit/b3a1d7cbc186aca53696cad61fac1a0a0057e0e7))
+
 ## [0.1.0](https://github.com/kotapeter/electron-hostile/compare/v0.0.2...v0.1.0) (2020-11-05)
 
 
