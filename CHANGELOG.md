@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/kotapeter/electron-hostile/compare/v1.0.3...v1.1.0) (2021-08-09)
+
+
+### Features
+
+* define returnCommand ([da7e6e4](https://github.com/kotapeter/electron-hostile/commit/da7e6e4c4c81996d8b8d80c12b1416ba61f4fe95))
+
 ### [1.0.2](https://github.com/kotapeter/electron-hostile/compare/v1.0.1...v1.0.2) (2020-11-11)
 
 
