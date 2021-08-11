@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/kotapeter/electron-hostile/compare/v1.1.0...v1.1.1) (2021-08-11)
+
+
+### Bug Fixes
+
+* windows regex ([b496bc8](https://github.com/kotapeter/electron-hostile/commit/b496bc82a61cf34dcbc726be787a33e28bd1e6bd))
+
 ## [1.1.0](https://github.com/kotapeter/electron-hostile/compare/v1.0.3...v1.1.0) (2021-08-09)
 
 
